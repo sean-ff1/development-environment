@@ -11,7 +11,7 @@ apt-get install gdm xorg xterm icewm -y && apt-get clean -y && \
 (curl -sSl https://get.docker.com/ | sh) && usermod -aG docker bmo && \
 
 #add my aliases
-echo "source ~/development-environment/aliases.txt" >> ~/.bashrc
+echo "source ~/development-environment/aliases.txt" >> ~/.bashrc && \
 
 #reboot
 reboot
