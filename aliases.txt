@@ -6,3 +6,5 @@ alias sd-vimf="docker rm -f sd-vim && docker run --name sd-vim -it -v $(pwd):/da
 alias sd-cheat="docker rm -f sd-cheat && docker run --name sd-cheat -it -v ~/development-environment/cheatsheets:/data seantdg/dev vim ."
 alias sd-tmux="tmux new -s sean"
 alias sd-tmuxr="tmux a -t sean"
+alias sd-passn="mktemp -u XXXXXXXXXXXXXXXXXXXXXX"
+alias sd-netscan="sudo iw dev wlp1s0 scan | grep SSID"
