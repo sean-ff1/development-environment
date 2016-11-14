@@ -1,0 +1,10 @@
+# Wifi access using DHCP 
+
+/etc/network/interfaces
+
+and append
+
+auto wlan0
+iface wlan0 inet dhcp
+wpa-ssid (router)
+wpa-psk (password)

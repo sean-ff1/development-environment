@@ -1,0 +1,19 @@
+# Tmux cheat sheet
+
+Start new
+
+tmux new -s sessionname
+
+Attach
+
+tmux a -t sessionname
+
+New tab
+
+ctl B ctl C (ctl n for next)
+
+New Pane
+
+ctl B " (ctl o for next)
+
+

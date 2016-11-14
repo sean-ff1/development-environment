@@ -1,0 +1,4 @@
+# Git Cheatsheet
+# ===============
+# Commit Graph 
+# git log --graph --oneline --all --decorate

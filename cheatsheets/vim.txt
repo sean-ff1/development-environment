@@ -1,0 +1,47 @@
+VIM Cheatsheet
+==========
+ d = delete
+ c = change
+ > = indent
+ v = visual
+ y = yank
+ ~ = change case
+
+ w = word
+ b = back
+ e = end of word
+ 
+ iw = inner word
+ it = inner tag
+ i" = inner quotes
+ ip = inner paragraph
+ as = a sentence
+
+ f = find (F for backwards)
+ t = (find) to (T for backwards)
+ / = search
+
+ . = repeat
+
+ :find = open file/folder (works with *'s)
+ :ls / :b (filename) buffer mgmt
+ sf = find + split
+
+ Use below to create ctags 
+ ctags -R . \
+ ^] = jump to tag
+ g^] = gloabl jump to tag
+ ^t = back a tag
+
+ ^x^n = autocomplete from this file
+ ^n = global autocomplete (^p for reverse)
+ ^x^f = filename autocomplete
+ ^x^o = tag autocomplete
+
+ Tag completion
+ Ctl-X Ctl-O
+
+netrw
+ create file %
+ delete file D
+ create directory d
