@@ -1,0 +1,45 @@
+# Nethack
+
+- Move like vim
+- < up
+- > down
+- S save
+- / whatis
+- \ known list
+- X explore mode
+- ^R redraw screen
+- ^D kick
+- ^T teleport
+- ^X show attributes
+- a apply/use tool
+- A take off armor
+- c close door
+- d drop object
+- e eat
+- E engrave message in floor
+- f fire ammo from quiver
+- F (+dir) fight
+- i inventory
+- o open a door
+- p pay bill in shop
+- P put on accessory
+- q quaff (drink)
+- Q select ammo for quiver
+- r read
+- R remove accessory
+- s search
+- t throw/shoot a weapon
+- T takeoff some armor
+- w wield a weapon
+- W wear armor
+- x xchange wielded and secondary weapon 
+- z zap a wand
+- Z cast a spell 
+- ^ identify a found trap
+- $ count fold
+- + list spells
+- _ travel to a point on map
+- . rest
+- , pickup 
+- : look 
+- ; far look

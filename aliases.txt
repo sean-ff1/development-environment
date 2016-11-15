@@ -1,4 +1,4 @@
-alias sd-ff="docker run -d --name firefox -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix -v /dev/snd:/dev/snd kennethkl/firefox || docker start firefox"
+alias sd-ff="docker run -d --privileged --name firefox -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix -v /dev/snd:/dev/snd kennethkl/firefox || docker start firefox"
 alias sd-dockerrm="docker rm $(docker ps -a -q)"
 alias sd-dockerrmi="docker rmi $(docker images -q)"
 alias sd-vim="docker run --name sd-vim -it -v $(pwd):/data seantdg/dev vim ."
