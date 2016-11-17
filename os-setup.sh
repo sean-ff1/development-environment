@@ -17,7 +17,7 @@ touch ~/.zshrc
 # set up aliases
 echo "source ~/development-environment/aliases.txt" >> ~/.zshrc && \
 # install really useful tools
-pip3 install thefuck && echo "eval $(thefuck --alias ffs)" >> ~/.zshrc && \
+pip3 install thefuck && echo 'eval $(thefuck --alias ffs)' >> ~/.zshrc && \
 
 #set defaul shell
 chsh -s $(which zsh) && \
