@@ -11,6 +11,9 @@ apt-get clean -y && \
 # install docker
 (curl -sSl https://get.docker.com/ | sh) && usermod -aG docker bmo && \
 
+# zshrc
+touch ~/.zshrc
+
 # set up aliases
 echo "source ~/development-environment/aliases.txt" >> ~/.zshrc && \
 # install really useful tools
