@@ -1,0 +1,105 @@
+find all - 
+
+Recall - back to Aylor
+Goals - list of goals
+Tasks - list of tasks
+Score - character info
+Worth - gold and bank
+Train - show training costs
+Train (skill) - Train a skill
+Raceinfo - Race mods for skills
+
+look - look around the room (or at something)
+runto (place) - run to area
+recall
+
+Skills - list of skills
+Spells - list of spells
+Learned
+Affects
+Practice (skill)
+Showspell (spell)
+Cast (spell)
+
+Areas 
+Mobdeaths
+Speedwalks
+Run
+
+Consider - Compare strength
+Scan - show characters in area
+Study - show health of all characters in the room
+Where - show other players or mobs in the area
+
+Flee
+Wimpy (hp)
+
+Heal - use at healers
+Ownedwhere - find location after death
+
+inv - inventory
+eq - equipped
+
+get 
+drop (e.g. drop 2.sword = drop 2nd sword)
+put
+give
+
+from / in container
+keep (item)
+
+wear/wield/hold/remove
+
+identify/lore (certain location in town)
+
+(keys dont save when you quit the game/ help object flags)
+
+list to see items in a shop
+
+auction/bid at auction house
+
+deposit/withdraw at bank
+
+say - everyone in room
+tell - single person
+channels - list channels
+
+bigmap
+coordinates
+
+explored
+help map
+
+enter (portal name) or hold portal in inv
+wayfind shows where portal goes
+weather
+
+open/unlock (direction of door)
+bashdoor for warriors
+passdoor to go through it
+
+exits for custom exit commands
+
+clist - clan list
+
+help pk
+clanall - clans alliances
+bootcamp clan to start
+
+help www for resources
+
+quest request from questmaster every 30mins
+campaign - multiple hits
+
+configall
+spamreduce
+
+afk
+afkmsg
+
+Maerchyng says, "Andolor has many more mysteries for you to uncover. Visit
+ Kimr at his Farm to uncover a new goal, or try boarding the train in Lands
+ of Legend. There is also a goal in the Art of Melody for you to discover.
+ When you reach level 15, visit the Call of Heroes and listen to Mystlin. I
+ wish you good fortune in your travels JeromeTheShy."
+
