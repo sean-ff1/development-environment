@@ -2,8 +2,8 @@
 git clone https://github.com/sean-ff1/development-environment.git && \
 # update os
 apt-get update -y && apt-get upgrade -y && apt-get dist-upgrade -y && \
-# install UI, firefox, zsh, and other dependencies
-apt-get install gdm xorg xfce4-terminal icewm python3-dev python3-pip firefox acpi -y && \
+# install UI, firefox, and other dependencies
+apt-get install kdm xorg xfce4 python3-dev python3-pip firefox acpi -y && \
 
 # clean up
 apt-get clean -y && \
